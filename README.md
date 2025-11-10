@@ -1,7 +1,5 @@
 # Lamborghini-2025-Vision
 Cool Car Build 🚗💨 – Lamborghini 2025 “Vision” with matte orange and black accents
-# Lamborghini-2025-Vision
-Cool Car Build 🚗💨 – Lamborghini 2025 “Vision” with matte orange and black accents
 
 ![Cool Car Build](https://raw.githubusercontent.com/raymondjadielpena-ctrl/Lamborghini-2025-Vision/main/Screenshot_20251109-193827.Google.png)
 
